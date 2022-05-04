@@ -10,4 +10,4 @@
 
 3.) Install The App
 
-***Note: If you want to use this way The app may not work correctly! Because The App is still in beta version***
+***Note: The app may not work correctly! Because The App is still in beta version***
